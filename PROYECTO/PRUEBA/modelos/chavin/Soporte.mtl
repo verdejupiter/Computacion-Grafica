@@ -1,0 +1,12 @@
+# Exported from Wings 3D 2.2.6.1
+newmtl Soporte_0
+Ns 9.999999999999998
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Soporte_baseColorTexture.png
+map_Ke Soporte_emissiveTexture.png
+
